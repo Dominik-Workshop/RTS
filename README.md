@@ -27,8 +27,10 @@ The robot incorporates 2 PCBs, which are connected via an FFC cable:
 The PCBs are mechanically joined with a lightweight 3D-printed connection bar. The motor and battery mounts are also 3D-printed.
 
 ## Android app
-<img align="center" width=49% src="images/screenshots/Android_app_initial.jpg">
-<img align="center" width=49% src="images/screenshots/Android_app_set.jpg">
+<p align="center">
+  <img align="center" width=40% src="images/screenshots/Android_app_initial.jpg"> &nbsp;&nbsp;
+  <img align="center" width=40% src="images/screenshots/Android_app_set.jpg">
+</p>
 
 ## Uploading the code to the robot
 If the microcontroller doesn't programm:
