@@ -9,6 +9,7 @@
 
 
 ## Project overwiev
+
 The Linefollower Robot is designed to autonomously navigate a track marked by a black line on a white surface. The goal is for the robot to complete the track as quickly as possible.
 <img align="center" src="images/pictures/LF.jpg">
 
@@ -26,6 +27,12 @@ The robot incorporates 2 PCBs, which are connected via an FFC cable:
 
 The PCBs are mechanically joined with a lightweight 3D-printed connection bar. The motor and battery mounts are also 3D-printed.
 
+### Tires
+
+Several tire types have been tested:
+- MINI-Z Low Height Slick Tire 40° MZW39-40
+- MINI-Z LM Wide High Grip Tire 20° MZT302-20
+
 ## Android app
 <p align="center">
   <img align="center" width=40% src="images/screenshots/Android_app_initial.jpg"> &nbsp;&nbsp;
@@ -33,6 +40,7 @@ The PCBs are mechanically joined with a lightweight 3D-printed connection bar. T
 </p>
 
 ## Uploading the code to the robot
+
 If the microcontroller doesn't programm:
 <details>
 <summary>Click to view solution</summary>
